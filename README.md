@@ -37,12 +37,13 @@ Only the UIDAI-provided dataset has been used in this analysis.
 - State-wise enrolment distribution
 - Age-group distribution
 - Enrolment trend over time
-- 
+- https://github.com/khush3521/-Aadhaar-Enrolment-Analysis/blob/main/Screenshot%202026-01-17%20145055.png
 
 ### Page 2: Behaviour and Pattern Analysis
 - State-wise enrolments by age group
 - High-activity districts indicating operational pressure
 - Seasonal patterns in enrolment activity
+- 
 
 ## Key Insights
 - Aadhaar enrolment activity varies significantly across states and districts
