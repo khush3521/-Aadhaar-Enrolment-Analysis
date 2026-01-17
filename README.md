@@ -43,7 +43,7 @@ Only the UIDAI-provided dataset has been used in this analysis.
 - State-wise enrolments by age group
 - High-activity districts indicating operational pressure
 - Seasonal patterns in enrolment activity
-- 
+- https://github.com/khush3521/-Aadhaar-Enrolment-Analysis/blob/main/Screenshot%202026-01-17%20145106.png
 
 ## Key Insights
 - Aadhaar enrolment activity varies significantly across states and districts
@@ -64,4 +64,4 @@ Only the UIDAI-provided dataset has been used in this analysis.
 
 ## Author
 Khush Panchal  
-Solo Project Submission
+
